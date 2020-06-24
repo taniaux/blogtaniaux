@@ -17,15 +17,21 @@ width:100vh;
 padding: 50px;
 }
 .bordeAside {
-border-top: 5px solid;
+border-top: 5px groove;
 padding:20px;
 width: 200px;
 margin:0 auto;
 }
+.boton {
+padding-top: 50px;
+}
 .texto {
 padding:100px;
 }
+.texto-1 {
+padding-bottom: 50px;
+}
 .borde {
-border-top: 10px solid;
+border-top: 10px groove;
 padding: 50px;
 }
